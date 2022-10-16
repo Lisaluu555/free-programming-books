@@ -86,6 +86,7 @@
 ### Clojure
 
 * [Clojure Cheatsheet](http://clojure.org/cheatsheet) (HTML)
+* [Clojure Cheatsheet](https://www.programming-idioms.org/cheatsheet/Clojure) - Programming-Idioms.org (HTML)
 
 
 ### Dart
